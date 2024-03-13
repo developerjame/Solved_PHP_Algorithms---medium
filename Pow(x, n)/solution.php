@@ -25,5 +25,5 @@ class Solution {
     }
 }
 $solution = new Solution();
-echo $solution->myPow(1.0000000000001, -2147483648);
+echo $solution->myPow(2.001, -10);
 ?>
